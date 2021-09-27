@@ -905,7 +905,7 @@ HomeComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_2__["
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](17, " Afspraken ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](18, "mat-card-content", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](19, " Een afspraak wordt niet meer telefonisch gemaakt en maak je vanaf heden via ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](19, " Een afspraak maak je online via ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](20, "a", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](21, "afspraken.be");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -1577,16 +1577,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "PraktijkinfoComponent": () => (/* binding */ PraktijkinfoComponent)
 /* harmony export */ });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ 7716);
-/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/common */ 8583);
-/* harmony import */ var _angular_material_card__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/material/card */ 3738);
-/* harmony import */ var _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @ng-bootstrap/ng-bootstrap */ 2664);
+/* harmony import */ var _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @ng-bootstrap/ng-bootstrap */ 2664);
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/common */ 8583);
+/* harmony import */ var _angular_material_card__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/material/card */ 3738);
 
 
 
 
 function PraktijkinfoComponent_ngb_carousel_2_ng_template_1_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 7);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 8);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 8);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 9);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r1 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
@@ -1594,8 +1594,8 @@ function PraktijkinfoComponent_ngb_carousel_2_ng_template_1_Template(rf, ctx) { 
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx_r1.images[0], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 } }
 function PraktijkinfoComponent_ngb_carousel_2_ng_template_2_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 7);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 9);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 8);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 10);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r2 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
@@ -1603,8 +1603,8 @@ function PraktijkinfoComponent_ngb_carousel_2_ng_template_2_Template(rf, ctx) { 
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx_r2.images[1], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 } }
 function PraktijkinfoComponent_ngb_carousel_2_ng_template_3_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 7);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 10);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 8);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 11);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
@@ -1612,8 +1612,8 @@ function PraktijkinfoComponent_ngb_carousel_2_ng_template_3_Template(rf, ctx) { 
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx_r3.images[2], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 } }
 function PraktijkinfoComponent_ngb_carousel_2_ng_template_4_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 7);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 10);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 8);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 12);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r4 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
@@ -1621,25 +1621,30 @@ function PraktijkinfoComponent_ngb_carousel_2_ng_template_4_Template(rf, ctx) { 
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx_r4.images[3], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 } }
 function PraktijkinfoComponent_ngb_carousel_2_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "ngb-carousel");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](1, PraktijkinfoComponent_ngb_carousel_2_ng_template_1_Template, 2, 1, "ng-template", 6);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, PraktijkinfoComponent_ngb_carousel_2_ng_template_2_Template, 2, 1, "ng-template", 6);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, PraktijkinfoComponent_ngb_carousel_2_ng_template_3_Template, 2, 1, "ng-template", 6);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](4, PraktijkinfoComponent_ngb_carousel_2_ng_template_4_Template, 2, 1, "ng-template", 6);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "ngb-carousel", 6);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](1, PraktijkinfoComponent_ngb_carousel_2_ng_template_1_Template, 2, 1, "ng-template", 7);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, PraktijkinfoComponent_ngb_carousel_2_ng_template_2_Template, 2, 1, "ng-template", 7);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, PraktijkinfoComponent_ngb_carousel_2_ng_template_3_Template, 2, 1, "ng-template", 7);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](4, PraktijkinfoComponent_ngb_carousel_2_ng_template_4_Template, 2, 1, "ng-template", 7);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+} if (rf & 2) {
+    const ctx_r0 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("interval", 4000)("showNavigationIndicators", ctx_r0.showNavigationIndicators);
 } }
 class PraktijkinfoComponent {
-    constructor() {
+    constructor(config) {
         this.images = [1, 4, 2, 3].map((n) => `../assets/images/${n}.jpg`);
+        this.showNavigationIndicators = true;
+        config.showNavigationIndicators = true;
     }
     ngOnInit() {
     }
 }
-PraktijkinfoComponent.ɵfac = function PraktijkinfoComponent_Factory(t) { return new (t || PraktijkinfoComponent)(); };
-PraktijkinfoComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: PraktijkinfoComponent, selectors: [["app-praktijkinfo"]], decls: 76, vars: 1, consts: [[1, "container"], [1, "spacer"], [4, "ngIf"], [1, "row"], [1, "col-lg-6"], [2, "font-size", "16px", "font-weight", "bold"], ["ngbSlide", ""], [1, "picsum-img-wrapper"], ["alt", "Random first slide", 3, "src"], ["alt", "Random second slide", 3, "src"], ["alt", "Random third slide", 3, "src"]], template: function PraktijkinfoComponent_Template(rf, ctx) { if (rf & 1) {
+PraktijkinfoComponent.ɵfac = function PraktijkinfoComponent_Factory(t) { return new (t || PraktijkinfoComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_1__.NgbCarouselConfig)); };
+PraktijkinfoComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: PraktijkinfoComponent, selectors: [["app-praktijkinfo"]], decls: 76, vars: 1, consts: [[1, "container"], [1, "spacer"], [3, "interval", "showNavigationIndicators", 4, "ngIf"], [1, "row"], [1, "col-lg-6"], [2, "font-size", "16px", "font-weight", "bold"], [3, "interval", "showNavigationIndicators"], ["ngbSlide", ""], [1, "picsum-img-wrapper"], ["alt", "Dokterspraktijk Dokter67", 3, "src"], ["alt", "Dokter Kris Vanderlinden en Dokter Maxime Callant", 3, "src"], ["alt", "Doktersruimte Dokter67", 3, "src"], ["alt", "Wachtzaal Dokter67", 3, "src"]], template: function PraktijkinfoComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "div", 1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, PraktijkinfoComponent_ngb_carousel_2_Template, 5, 0, "ngb-carousel", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, PraktijkinfoComponent_ngb_carousel_2_Template, 5, 2, "ngb-carousel", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "mat-card", 4);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "mat-card-title");
@@ -1762,7 +1767,7 @@ PraktijkinfoComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODU
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.images);
-    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_1__.NgIf, _angular_material_card__WEBPACK_IMPORTED_MODULE_2__.MatCard, _angular_material_card__WEBPACK_IMPORTED_MODULE_2__.MatCardTitle, _angular_material_card__WEBPACK_IMPORTED_MODULE_2__.MatCardContent, _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_3__.NgbCarousel, _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_3__.NgbSlide], styles: ["mat-card-title[_ngcontent-%COMP%], mat-card-content[_ngcontent-%COMP%], mat-expansion-panel-header[_ngcontent-%COMP%] {\r\n  \r\n  font-family: 'Open Sans', sans-serif;\r\n}\r\nmat-card-title[_ngcontent-%COMP%] {\r\n  font-weight: 800;\r\n}\r\nmat-card[_ngcontent-%COMP%] {\r\n  box-shadow: none!important;\r\n}\r\n.container[_ngcontent-%COMP%] {\r\n  min-height: 100%;\r\n}\r\n.container[_ngcontent-%COMP%] {\r\n  min-height: calc(100vh - 158.4px - 64px);\r\n}\r\n.spacer[_ngcontent-%COMP%] {\r\n  padding: 0.5rem;\r\n}\r\nngb-carousel[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\r\n  object-fit: cover;\r\n  max-height: 600px;\r\n  height: 100%;\r\n  width: 100%;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInByYWt0aWpraW5mby5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0Usb0NBQW9DO0VBQ3BDLG9DQUFvQztBQUN0QztBQUNBO0VBQ0UsZ0JBQWdCO0FBQ2xCO0FBQ0E7RUFDRSwwQkFBMEI7QUFDNUI7QUFDQTtFQUNFLGdCQUFnQjtBQUNsQjtBQUNBO0VBQ0Usd0NBQXdDO0FBQzFDO0FBQ0E7RUFDRSxlQUFlO0FBQ2pCO0FBQ0E7RUFDRSxpQkFBaUI7RUFDakIsaUJBQWlCO0VBQ2pCLFlBQVk7RUFDWixXQUFXO0FBQ2IiLCJmaWxlIjoicHJha3RpamtpbmZvLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJtYXQtY2FyZC10aXRsZSwgbWF0LWNhcmQtY29udGVudCwgbWF0LWV4cGFuc2lvbi1wYW5lbC1oZWFkZXIge1xyXG4gIC8qIGZvbnQtZmFtaWx5OiAnRXhvJywgc2Fucy1zZXJpZjsgKi9cclxuICBmb250LWZhbWlseTogJ09wZW4gU2FucycsIHNhbnMtc2VyaWY7XHJcbn1cclxubWF0LWNhcmQtdGl0bGUge1xyXG4gIGZvbnQtd2VpZ2h0OiA4MDA7XHJcbn1cclxubWF0LWNhcmQge1xyXG4gIGJveC1zaGFkb3c6IG5vbmUhaW1wb3J0YW50O1xyXG59XHJcbi5jb250YWluZXIge1xyXG4gIG1pbi1oZWlnaHQ6IDEwMCU7XHJcbn1cclxuLmNvbnRhaW5lciB7XHJcbiAgbWluLWhlaWdodDogY2FsYygxMDB2aCAtIDE1OC40cHggLSA2NHB4KTtcclxufVxyXG4uc3BhY2VyIHtcclxuICBwYWRkaW5nOiAwLjVyZW07XHJcbn1cclxubmdiLWNhcm91c2VsIGltZyB7XHJcbiAgb2JqZWN0LWZpdDogY292ZXI7XHJcbiAgbWF4LWhlaWdodDogNjAwcHg7XHJcbiAgaGVpZ2h0OiAxMDAlO1xyXG4gIHdpZHRoOiAxMDAlO1xyXG59XHJcbiJdfQ== */"] });
+    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_2__.NgIf, _angular_material_card__WEBPACK_IMPORTED_MODULE_3__.MatCard, _angular_material_card__WEBPACK_IMPORTED_MODULE_3__.MatCardTitle, _angular_material_card__WEBPACK_IMPORTED_MODULE_3__.MatCardContent, _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_1__.NgbCarousel, _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_1__.NgbSlide], styles: ["mat-card-title[_ngcontent-%COMP%], mat-card-content[_ngcontent-%COMP%], mat-expansion-panel-header[_ngcontent-%COMP%] {\r\n  \r\n  font-family: 'Open Sans', sans-serif;\r\n}\r\nmat-card-title[_ngcontent-%COMP%] {\r\n  font-weight: 800;\r\n}\r\nmat-card[_ngcontent-%COMP%] {\r\n  box-shadow: none!important;\r\n}\r\n.container[_ngcontent-%COMP%] {\r\n  min-height: 100%;\r\n}\r\n.container[_ngcontent-%COMP%] {\r\n  min-height: calc(100vh - 158.4px - 64px);\r\n}\r\n.spacer[_ngcontent-%COMP%] {\r\n  padding: 0.5rem;\r\n}\r\nngb-carousel[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\r\n  object-fit: cover;\r\n  max-height: 600px;\r\n  height: 100%;\r\n  width: 100%;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInByYWt0aWpraW5mby5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0Usb0NBQW9DO0VBQ3BDLG9DQUFvQztBQUN0QztBQUNBO0VBQ0UsZ0JBQWdCO0FBQ2xCO0FBQ0E7RUFDRSwwQkFBMEI7QUFDNUI7QUFDQTtFQUNFLGdCQUFnQjtBQUNsQjtBQUNBO0VBQ0Usd0NBQXdDO0FBQzFDO0FBQ0E7RUFDRSxlQUFlO0FBQ2pCO0FBQ0E7RUFDRSxpQkFBaUI7RUFDakIsaUJBQWlCO0VBQ2pCLFlBQVk7RUFDWixXQUFXO0FBQ2IiLCJmaWxlIjoicHJha3RpamtpbmZvLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJtYXQtY2FyZC10aXRsZSwgbWF0LWNhcmQtY29udGVudCwgbWF0LWV4cGFuc2lvbi1wYW5lbC1oZWFkZXIge1xyXG4gIC8qIGZvbnQtZmFtaWx5OiAnRXhvJywgc2Fucy1zZXJpZjsgKi9cclxuICBmb250LWZhbWlseTogJ09wZW4gU2FucycsIHNhbnMtc2VyaWY7XHJcbn1cclxubWF0LWNhcmQtdGl0bGUge1xyXG4gIGZvbnQtd2VpZ2h0OiA4MDA7XHJcbn1cclxubWF0LWNhcmQge1xyXG4gIGJveC1zaGFkb3c6IG5vbmUhaW1wb3J0YW50O1xyXG59XHJcbi5jb250YWluZXIge1xyXG4gIG1pbi1oZWlnaHQ6IDEwMCU7XHJcbn1cclxuLmNvbnRhaW5lciB7XHJcbiAgbWluLWhlaWdodDogY2FsYygxMDB2aCAtIDE1OC40cHggLSA2NHB4KTtcclxufVxyXG4uc3BhY2VyIHtcclxuICBwYWRkaW5nOiAwLjVyZW07XHJcbn1cclxubmdiLWNhcm91c2VsIGltZyB7XHJcbiAgb2JqZWN0LWZpdDogY292ZXI7XHJcbiAgbWF4LWhlaWdodDogNjAwcHg7XHJcbiAgaGVpZ2h0OiAxMDAlO1xyXG4gIHdpZHRoOiAxMDAlO1xyXG59XHJcbiJdfQ== */"] });
 
 
 /***/ }),
@@ -1787,8 +1792,8 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function SportgeneeskundeComponent_ngb_carousel_2_ng_template_1_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 8);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 9);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 9);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 10);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r1 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
@@ -1796,8 +1801,8 @@ function SportgeneeskundeComponent_ngb_carousel_2_ng_template_1_Template(rf, ctx
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx_r1.images[0], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 } }
 function SportgeneeskundeComponent_ngb_carousel_2_ng_template_2_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 8);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 10);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 9);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 11);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r2 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
@@ -1805,8 +1810,8 @@ function SportgeneeskundeComponent_ngb_carousel_2_ng_template_2_Template(rf, ctx
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx_r2.images[1], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 } }
 function SportgeneeskundeComponent_ngb_carousel_2_ng_template_3_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 8);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 11);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 9);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 12);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
@@ -1814,11 +1819,13 @@ function SportgeneeskundeComponent_ngb_carousel_2_ng_template_3_Template(rf, ctx
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx_r3.images[2], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 } }
 function SportgeneeskundeComponent_ngb_carousel_2_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "ngb-carousel");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](1, SportgeneeskundeComponent_ngb_carousel_2_ng_template_1_Template, 2, 1, "ng-template", 7);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, SportgeneeskundeComponent_ngb_carousel_2_ng_template_2_Template, 2, 1, "ng-template", 7);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, SportgeneeskundeComponent_ngb_carousel_2_ng_template_3_Template, 2, 1, "ng-template", 7);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "ngb-carousel", 7);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](1, SportgeneeskundeComponent_ngb_carousel_2_ng_template_1_Template, 2, 1, "ng-template", 8);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, SportgeneeskundeComponent_ngb_carousel_2_ng_template_2_Template, 2, 1, "ng-template", 8);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, SportgeneeskundeComponent_ngb_carousel_2_ng_template_3_Template, 2, 1, "ng-template", 8);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+} if (rf & 2) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("interval", 4000);
 } }
 class SportgeneeskundeComponent {
     constructor() {
@@ -1828,10 +1835,10 @@ class SportgeneeskundeComponent {
     }
 }
 SportgeneeskundeComponent.ɵfac = function SportgeneeskundeComponent_Factory(t) { return new (t || SportgeneeskundeComponent)(); };
-SportgeneeskundeComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: SportgeneeskundeComponent, selectors: [["app-sportgeneeskunde"]], decls: 64, vars: 1, consts: [[1, "container"], [1, "spacer"], [4, "ngIf"], [1, "row"], [1, "page-title"], ["href", "https://www.mtc-it4.be/patient/index.html#/appointments/day/bjNkcWkyQmFRMkpDVTRFNndleFgzRG8wSTNNVEVGMkxMdFZpeGQ2OStyYkhpeHdsYzJSRTBmazFFTzRZTzJMTw==", "target", "_blank"], ["href", "https://www.sportkeuring.be/", "target", "_blank"], ["ngbSlide", ""], [1, "picsum-img-wrapper"], ["alt", "Dokter Kris Vanderlinden sportonderzoek", 3, "src"], ["alt", "Echografie bij Dokter67", 3, "src"], ["alt", "Fietsproef bij Dokter67", 3, "src"]], template: function SportgeneeskundeComponent_Template(rf, ctx) { if (rf & 1) {
+SportgeneeskundeComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: SportgeneeskundeComponent, selectors: [["app-sportgeneeskunde"]], decls: 64, vars: 1, consts: [[1, "container"], [1, "spacer"], [3, "interval", 4, "ngIf"], [1, "row"], [1, "page-title"], ["href", "https://www.mtc-it4.be/patient/index.html#/appointments/day/bjNkcWkyQmFRMkpDVTRFNndleFgzRG8wSTNNVEVGMkxMdFZpeGQ2OStyYkhpeHdsYzJSRTBmazFFTzRZTzJMTw==", "target", "_blank"], ["href", "https://www.sportkeuring.be/", "target", "_blank"], [3, "interval"], ["ngbSlide", ""], [1, "picsum-img-wrapper"], ["alt", "Dokter Kris Vanderlinden sportonderzoek", 3, "src"], ["alt", "Echografie bij Dokter67", 3, "src"], ["alt", "Fietsproef bij Dokter67", 3, "src"]], template: function SportgeneeskundeComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "div", 1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, SportgeneeskundeComponent_ngb_carousel_2_Template, 4, 0, "ngb-carousel", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, SportgeneeskundeComponent_ngb_carousel_2_Template, 4, 1, "ngb-carousel", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "mat-card");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "mat-card-title", 4);
