@@ -1414,7 +1414,7 @@ class NewsComponent {
     }
 }
 NewsComponent.ɵfac = function NewsComponent_Factory(t) { return new (t || NewsComponent)(); };
-NewsComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: NewsComponent, selectors: [["app-news"]], decls: 46, vars: 2, consts: [[1, "container-fluid"], [1, "row"], [1, "text-center", "page-title"], [1, "col-lg-4", "border"], [1, "text-center", "subtitle"], [1, "row", "text-center"], [3, "routerLink"], [1, "col-lg-4"]], template: function NewsComponent_Template(rf, ctx) { if (rf & 1) {
+NewsComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: NewsComponent, selectors: [["app-news"]], decls: 38, vars: 2, consts: [[1, "container-fluid"], [1, "row"], [1, "text-center", "page-title"], [1, "col-lg-4", "border"], [1, "text-center", "subtitle"], [1, "row", "text-center"], [3, "routerLink"], [1, "col-lg-4"]], template: function NewsComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "mat-card");
@@ -1470,19 +1470,7 @@ NewsComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "mat-card-content", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "mat-card-content");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](37, " In de maand september en oktober worden er werken gedaan aan onze straat. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "mat-card-content");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](39, " Dit betekent dat u hinder kan ondervinden bij het bereiken van de praktijk. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "mat-card-content");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, " In oktober zal er een (tot nog toe onbekende) dag zijn waarop u de praktijk niet zal kunnen oprijden. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "mat-card-content");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](43, " Gelieve ermee rekening te houden dat de praktijk hierdoor niet bereikbaar is met de wagen. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](44, "mat-card-content");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](45, " Hou eventueel de website in de gaten voor meer info. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](37, " De komende dagen wordt aan het wegdek gewerkt in de stationsstraat. Dit betekent dat je hinder kan ondervinden bij het bereiken van de praktijk. Hou eventueel de website in de gaten voor verdere info. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1630,12 +1618,22 @@ function PraktijkinfoComponent_ngb_carousel_2_ng_template_4_Template(rf, ctx) { 
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx_r4.images[3], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 } }
+function PraktijkinfoComponent_ngb_carousel_2_ng_template_5_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 8);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 13);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+} if (rf & 2) {
+    const ctx_r5 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx_r5.images[4], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+} }
 function PraktijkinfoComponent_ngb_carousel_2_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "ngb-carousel", 6);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](1, PraktijkinfoComponent_ngb_carousel_2_ng_template_1_Template, 2, 1, "ng-template", 7);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, PraktijkinfoComponent_ngb_carousel_2_ng_template_2_Template, 2, 1, "ng-template", 7);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, PraktijkinfoComponent_ngb_carousel_2_ng_template_3_Template, 2, 1, "ng-template", 7);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](4, PraktijkinfoComponent_ngb_carousel_2_ng_template_4_Template, 2, 1, "ng-template", 7);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](5, PraktijkinfoComponent_ngb_carousel_2_ng_template_5_Template, 2, 1, "ng-template", 7);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r0 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
@@ -1643,7 +1641,7 @@ function PraktijkinfoComponent_ngb_carousel_2_Template(rf, ctx) { if (rf & 1) {
 } }
 class PraktijkinfoComponent {
     constructor(config) {
-        this.images = [1, 4, 2, 3].map((n) => `../assets/images/${n}.jpg`);
+        this.images = [1, 4, 2, 3, 12].map((n) => `../assets/images/${n}.jpg`);
         this.showNavigationIndicators = true;
         config.showNavigationIndicators = true;
     }
@@ -1651,10 +1649,10 @@ class PraktijkinfoComponent {
     }
 }
 PraktijkinfoComponent.ɵfac = function PraktijkinfoComponent_Factory(t) { return new (t || PraktijkinfoComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_1__.NgbCarouselConfig)); };
-PraktijkinfoComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: PraktijkinfoComponent, selectors: [["app-praktijkinfo"]], decls: 76, vars: 1, consts: [[1, "container"], [1, "spacer"], [3, "interval", "showNavigationIndicators", 4, "ngIf"], [1, "row"], [1, "col-lg-6"], [2, "font-size", "16px", "font-weight", "bold"], [3, "interval", "showNavigationIndicators"], ["ngbSlide", ""], [1, "picsum-img-wrapper"], ["alt", "Dokterspraktijk Dokter67", 3, "src"], ["alt", "Dokter Kris Vanderlinden en Dokter Maxime Callant", 3, "src"], ["alt", "Doktersruimte Dokter67", 3, "src"], ["alt", "Wachtzaal Dokter67", 3, "src"]], template: function PraktijkinfoComponent_Template(rf, ctx) { if (rf & 1) {
+PraktijkinfoComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: PraktijkinfoComponent, selectors: [["app-praktijkinfo"]], decls: 76, vars: 1, consts: [[1, "container"], [1, "spacer"], [3, "interval", "showNavigationIndicators", 4, "ngIf"], [1, "row"], [1, "col-lg-6"], [2, "font-size", "16px", "font-weight", "bold"], [3, "interval", "showNavigationIndicators"], ["ngbSlide", ""], [1, "picsum-img-wrapper"], ["alt", "Dokterspraktijk Dokter67", 3, "src"], ["alt", "Dokter Kris Vanderlinden en Dokter Maxime Callant", 3, "src"], ["alt", "Doktersruimte Dokter67", 3, "src"], ["alt", "Wachtzaal Dokter67", 3, "src"], ["alt", "Echografie bij Dokter67", 3, "src"]], template: function PraktijkinfoComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "div", 1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, PraktijkinfoComponent_ngb_carousel_2_Template, 5, 2, "ngb-carousel", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, PraktijkinfoComponent_ngb_carousel_2_Template, 6, 2, "ngb-carousel", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "mat-card", 4);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "mat-card-title");
@@ -1794,49 +1792,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "SportgeneeskundeComponent": () => (/* binding */ SportgeneeskundeComponent)
 /* harmony export */ });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ 7716);
-/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/common */ 8583);
-/* harmony import */ var _angular_material_card__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/material/card */ 3738);
-/* harmony import */ var _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @ng-bootstrap/ng-bootstrap */ 2664);
+/* harmony import */ var _angular_material_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/material/card */ 3738);
 
 
-
-
-function SportgeneeskundeComponent_ngb_carousel_2_ng_template_1_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 9);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 10);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-} if (rf & 2) {
-    const ctx_r1 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx_r1.images[0], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
-} }
-function SportgeneeskundeComponent_ngb_carousel_2_ng_template_2_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 9);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 11);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-} if (rf & 2) {
-    const ctx_r2 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx_r2.images[1], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
-} }
-function SportgeneeskundeComponent_ngb_carousel_2_ng_template_3_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 9);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 12);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-} if (rf & 2) {
-    const ctx_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx_r3.images[2], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
-} }
-function SportgeneeskundeComponent_ngb_carousel_2_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "ngb-carousel", 7);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](1, SportgeneeskundeComponent_ngb_carousel_2_ng_template_1_Template, 2, 1, "ng-template", 8);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, SportgeneeskundeComponent_ngb_carousel_2_ng_template_2_Template, 2, 1, "ng-template", 8);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, SportgeneeskundeComponent_ngb_carousel_2_ng_template_3_Template, 2, 1, "ng-template", 8);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-} if (rf & 2) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("interval", 4000);
-} }
 class SportgeneeskundeComponent {
     constructor() {
         this.images = [11, 12, 13].map((n) => `../assets/images/${n}.jpg`);
@@ -1845,29 +1803,29 @@ class SportgeneeskundeComponent {
     }
 }
 SportgeneeskundeComponent.ɵfac = function SportgeneeskundeComponent_Factory(t) { return new (t || SportgeneeskundeComponent)(); };
-SportgeneeskundeComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: SportgeneeskundeComponent, selectors: [["app-sportgeneeskunde"]], decls: 64, vars: 1, consts: [[1, "container"], [1, "spacer"], [3, "interval", 4, "ngIf"], [1, "row"], [1, "page-title"], ["href", "https://www.mtc-it4.be/patient/index.html#/appointments/day/bjNkcWkyQmFRMkpDVTRFNndleFgzRG8wSTNNVEVGMkxMdFZpeGQ2OStyYkhpeHdsYzJSRTBmazFFTzRZTzJMTw==", "target", "_blank"], ["href", "https://www.sportkeuring.be/", "target", "_blank"], [3, "interval"], ["ngbSlide", ""], [1, "picsum-img-wrapper"], ["alt", "Dokter Kris Vanderlinden sportonderzoek", 3, "src"], ["alt", "Echografie bij Dokter67", 3, "src"], ["alt", "Fietsproef bij Dokter67", 3, "src"]], template: function SportgeneeskundeComponent_Template(rf, ctx) { if (rf & 1) {
+SportgeneeskundeComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: SportgeneeskundeComponent, selectors: [["app-sportgeneeskunde"]], decls: 70, vars: 0, consts: [[1, "container"], [1, "row"], [1, "page-title"], [1, "col-lg-6"], ["href", "https://www.mtc-it4.be/patient/index.html#/appointments/day/bjNkcWkyQmFRMkpDVTRFNndleFgzRG8wSTNNVEVGMkxMdFZpeGQ2OStyYkhpeHdsYzJSRTBmazFFTzRZTzJMTw==", "target", "_blank"], [1, "col-lg-3"], ["src", "../../assets/images/14.jpg", "width", "400px", "alt", "Inspanningsproef met lactaatmeting"], ["src", "../../assets/images/11.jpg", "width", "600", "alt", "Echografie Dokter67"], ["href", "https://www.sportkeuring.be/", "target", "_blank"]], template: function SportgeneeskundeComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "div", 1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, SportgeneeskundeComponent_ngb_carousel_2_Template, 4, 1, "ngb-carousel", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "mat-card");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "mat-card-title", 4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, " Sportgeneeskunde ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "mat-card");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "mat-card-title", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, " Sportgeneeskunde ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "mat-card-content");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "mat-card-content");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](7, " Dokter Kris Vanderlinden en dokter Maxime Callant zijn gespecialiseerd in sportgeneeskunde. U kan in de praktijk terecht voor sportgerelateerde letsels, een inspanningsproef en sportmedische keuring. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](9, " Dokter Kris Vanderlinden en dokter Maxime Callant zijn gespecialiseerd in sportgeneeskunde. U kan in de praktijk terecht voor sportgerelateerde letsels, een inspanningsproef en sportmedische keuring. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, " Dokter Vanderlinden is tevens verbonden aan de KBVB als bondsarts bij de vrouwenvoetbalploeg \u201CThe Red Flames\u201D. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](9, " Dokter Vanderlinden is tevens verbonden aan de KBVB als bondsarts bij de vrouwenvoetbalploeg \u201CThe Red Flames\u201D. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "mat-card");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "mat-card-title");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, " Inspanningsproef met lactaatmeting ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "mat-card");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "mat-card-title");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, " Inspanningsproef met lactaatmeting ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "mat-card-content");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "mat-card-content");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "div", 1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div", 3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "p");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, " Met een fietsonderzoek kan op een accurate manier het conditieniveau bepaald worden. Op de fiets worden toenemende wattages getrapt terwijl het hartritme en de bloeddruk worden gemonitord. Dankzij de lactaatmetingen worden specifieke trainingszones afgebakend. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1876,79 +1834,88 @@ SportgeneeskundeComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "ul");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, "U reserveert online een afspraak via ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "a", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, " U reserveert online een afspraak via ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "a", 4);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](24, "afspraken.be");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, " voor de voorbereiding van de inspanningsproef. Er wordt een anamnese afgenomen en u wordt klinisch onderzocht. Indien een tegenaanwijzing voor een inspanningsproef wordt gevonden, wordt u verwezen voor specialistisch nazicht.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, " voor de voorbereiding van de inspanningsproef. Er wordt een anamnese afgenomen en u wordt klinisch onderzocht. Indien een tegenaanwijzing voor een inspanningsproef wordt gevonden, wordt u verwezen voor specialistisch nazicht. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](27, "Een afspraak wordt gemaakt voor de inspanningsproef. Vergeet zeker geen sportkleren mee te nemen!");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](27, " Een afspraak wordt gemaakt voor de inspanningsproef. Vergeet zeker geen sportkleren mee te nemen! ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](29, "Tijdens de fietsproef wordt regelmatig het lactaat gemeten en zal gevraagd worden hoe lastig de proef wordt ervaren, en of er klachten optreden");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](29, " Tijdens de fietsproef wordt regelmatig het lactaat gemeten en zal gevraagd worden hoe lastig de proef wordt ervaren, en of er klachten optreden ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](31, "U krijgt de gelegenheid zich te douchen na de proef indien gewenst.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](31, " U krijgt de gelegenheid zich te douchen na de proef indien gewenst. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](33, "Er wordt een nieuwe afspraak vastgelegd om de ge\u00EFnterpreteerde resultaten te bespreken.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](33, " Er wordt een nieuwe afspraak vastgelegd om de ge\u00EFnterpreteerde resultaten te bespreken. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](34, "div", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](35, "img", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](34, "mat-card");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "mat-card-title");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](36, " Echografie ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "mat-card");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "mat-card-title");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, " Echografie ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "mat-card-content");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](39, " Via echografie kunnen op een niet-invasieve manier de spieren en pezen in beeld gebracht worden. Indien echografie gewenst is, maak hiervoor een afspraak online bij dokter Vanderlinden via ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "a", 5);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, "afspraken.be");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "mat-card-content");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "div", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](43, " Via echografie kunnen op een niet-invasieve manier de spieren en pezen in beeld gebracht worden. Indien echografie gewenst is, maak hiervoor een afspraak online bij dokter Vanderlinden via ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](44, "a", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](45, "afspraken.be");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, " en vermeldt dit in de reden van afspraak. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](46, " en vermeldt dit in de reden van afspraak. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "mat-card");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](44, "mat-card-title");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](45, " Sportmedische keuringen ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](46, "mat-card-content");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](48, " Voor de meeste sporten is een toelatingsattest van een arts nodig. U kan hier terecht voor een sportonderzoek en medische keuring. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](50, " Praktisch: ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "ul");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](53, "Vul de vragenlijst in op ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](54, "a", 6);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](55, "www.sportkeuring.be");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](56, " en stuur deze door naar dokter Kris Vanderlinden.");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](57, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](58, "Maak een afspraak online via ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](59, "a", 5);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](60, "afspraken.be");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](61, " en vermeldt dat het om een sportmedische keuring gaat.");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](63, "Vergeet niet de nodige administratieve documenten mee te nemen naar de praktijk. Deze worden meestal door de specifieke federatie naar de sporter gestuurd.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](48, "img", 7);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "mat-card");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](50, "mat-card-title");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](51, " Sportmedische keuringen ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "mat-card-content");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](53, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](54, " Voor de meeste sporten is een toelatingsattest van een arts nodig. U kan hier terecht voor een sportonderzoek en medische keuring. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](56, "Praktisch:");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](57, "ul");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](58, "li");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](59, " Vul de vragenlijst in op ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](60, "a", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](61, "www.sportkeuring.be");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](62, " en stuur deze door naar dokter Kris Vanderlinden. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "li");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](64, " Maak een afspraak online via ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](65, "a", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](66, "afspraken.be");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](67, " en vermeldt dat het om een sportmedische keuring gaat. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "li");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](69, " Vergeet niet de nodige administratieve documenten mee te nemen naar de praktijk. Deze worden meestal door de specifieke federatie naar de sporter gestuurd. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } if (rf & 2) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.images);
-    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_1__.NgIf, _angular_material_card__WEBPACK_IMPORTED_MODULE_2__.MatCard, _angular_material_card__WEBPACK_IMPORTED_MODULE_2__.MatCardTitle, _angular_material_card__WEBPACK_IMPORTED_MODULE_2__.MatCardContent, _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_3__.NgbCarousel, _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_3__.NgbSlide], styles: ["mat-card-title[_ngcontent-%COMP%], mat-card-content[_ngcontent-%COMP%], mat-expansion-panel-header[_ngcontent-%COMP%] {\r\n  \r\n  font-family: 'Open Sans', sans-serif;\r\n}\r\nmat-card-title[_ngcontent-%COMP%] {\r\n  font-weight: 800;\r\n}\r\nmat-card[_ngcontent-%COMP%] {\r\n  box-shadow: none!important;\r\n}\r\n.container[_ngcontent-%COMP%] {\r\n  min-height: 100%;\r\n}\r\n.container[_ngcontent-%COMP%] {\r\n  min-height: calc(100vh - 158.4px - 64px);\r\n}\r\n.page-title[_ngcontent-%COMP%] {\r\n  \r\n  font-family: 'Open Sans', sans-serif;\r\n  font-size: 36px;\r\n  font-weight: 800;\r\n}\r\n.spacer[_ngcontent-%COMP%] {\r\n  padding: 0.5rem;\r\n}\r\nngb-carousel[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\r\n  object-fit: cover;\r\n  max-height: 600px;\r\n  height: auto;\r\n  width: 100%;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNwb3J0Z2VuZWVza3VuZGUuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLG9DQUFvQztFQUNwQyxvQ0FBb0M7QUFDdEM7QUFDQTtFQUNFLGdCQUFnQjtBQUNsQjtBQUNBO0VBQ0UsMEJBQTBCO0FBQzVCO0FBQ0E7RUFDRSxnQkFBZ0I7QUFDbEI7QUFDQTtFQUNFLHdDQUF3QztBQUMxQztBQUNBO0VBQ0Usb0NBQW9DO0VBQ3BDLG9DQUFvQztFQUNwQyxlQUFlO0VBQ2YsZ0JBQWdCO0FBQ2xCO0FBQ0E7RUFDRSxlQUFlO0FBQ2pCO0FBQ0E7RUFDRSxpQkFBaUI7RUFDakIsaUJBQWlCO0VBQ2pCLFlBQVk7RUFDWixXQUFXO0FBQ2IiLCJmaWxlIjoic3BvcnRnZW5lZXNrdW5kZS5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsibWF0LWNhcmQtdGl0bGUsIG1hdC1jYXJkLWNvbnRlbnQsIG1hdC1leHBhbnNpb24tcGFuZWwtaGVhZGVyIHtcclxuICAvKiBmb250LWZhbWlseTogJ0V4bycsIHNhbnMtc2VyaWY7ICovXHJcbiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnLCBzYW5zLXNlcmlmO1xyXG59XHJcbm1hdC1jYXJkLXRpdGxlIHtcclxuICBmb250LXdlaWdodDogODAwO1xyXG59XHJcbm1hdC1jYXJkIHtcclxuICBib3gtc2hhZG93OiBub25lIWltcG9ydGFudDtcclxufVxyXG4uY29udGFpbmVyIHtcclxuICBtaW4taGVpZ2h0OiAxMDAlO1xyXG59XHJcbi5jb250YWluZXIge1xyXG4gIG1pbi1oZWlnaHQ6IGNhbGMoMTAwdmggLSAxNTguNHB4IC0gNjRweCk7XHJcbn1cclxuLnBhZ2UtdGl0bGUge1xyXG4gIC8qIGZvbnQtZmFtaWx5OiAnRXhvJywgc2Fucy1zZXJpZjsgKi9cclxuICBmb250LWZhbWlseTogJ09wZW4gU2FucycsIHNhbnMtc2VyaWY7XHJcbiAgZm9udC1zaXplOiAzNnB4O1xyXG4gIGZvbnQtd2VpZ2h0OiA4MDA7XHJcbn1cclxuLnNwYWNlciB7XHJcbiAgcGFkZGluZzogMC41cmVtO1xyXG59XHJcbm5nYi1jYXJvdXNlbCBpbWcge1xyXG4gIG9iamVjdC1maXQ6IGNvdmVyO1xyXG4gIG1heC1oZWlnaHQ6IDYwMHB4O1xyXG4gIGhlaWdodDogYXV0bztcclxuICB3aWR0aDogMTAwJTtcclxufVxyXG4iXX0= */"] });
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    } }, directives: [_angular_material_card__WEBPACK_IMPORTED_MODULE_1__.MatCard, _angular_material_card__WEBPACK_IMPORTED_MODULE_1__.MatCardTitle, _angular_material_card__WEBPACK_IMPORTED_MODULE_1__.MatCardContent], styles: ["mat-card-title[_ngcontent-%COMP%], mat-card-content[_ngcontent-%COMP%], mat-expansion-panel-header[_ngcontent-%COMP%] {\r\n  \r\n  font-family: 'Open Sans', sans-serif;\r\n}\r\nmat-card-title[_ngcontent-%COMP%] {\r\n  font-weight: 800;\r\n}\r\nmat-card[_ngcontent-%COMP%] {\r\n  box-shadow: none!important;\r\n}\r\n.container[_ngcontent-%COMP%] {\r\n  min-height: 100%;\r\n}\r\n.container[_ngcontent-%COMP%] {\r\n  min-height: calc(100vh - 158.4px - 64px);\r\n}\r\n.page-title[_ngcontent-%COMP%] {\r\n  \r\n  font-family: 'Open Sans', sans-serif;\r\n  font-size: 36px;\r\n  font-weight: 800;\r\n}\r\n.spacer[_ngcontent-%COMP%] {\r\n  padding: 0.5rem;\r\n}\r\nngb-carousel[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\r\n  object-fit: cover;\r\n  max-height: 600px;\r\n  height: auto;\r\n  width: 100%;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNwb3J0Z2VuZWVza3VuZGUuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLG9DQUFvQztFQUNwQyxvQ0FBb0M7QUFDdEM7QUFDQTtFQUNFLGdCQUFnQjtBQUNsQjtBQUNBO0VBQ0UsMEJBQTBCO0FBQzVCO0FBQ0E7RUFDRSxnQkFBZ0I7QUFDbEI7QUFDQTtFQUNFLHdDQUF3QztBQUMxQztBQUNBO0VBQ0Usb0NBQW9DO0VBQ3BDLG9DQUFvQztFQUNwQyxlQUFlO0VBQ2YsZ0JBQWdCO0FBQ2xCO0FBQ0E7RUFDRSxlQUFlO0FBQ2pCO0FBQ0E7RUFDRSxpQkFBaUI7RUFDakIsaUJBQWlCO0VBQ2pCLFlBQVk7RUFDWixXQUFXO0FBQ2IiLCJmaWxlIjoic3BvcnRnZW5lZXNrdW5kZS5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsibWF0LWNhcmQtdGl0bGUsIG1hdC1jYXJkLWNvbnRlbnQsIG1hdC1leHBhbnNpb24tcGFuZWwtaGVhZGVyIHtcclxuICAvKiBmb250LWZhbWlseTogJ0V4bycsIHNhbnMtc2VyaWY7ICovXHJcbiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnLCBzYW5zLXNlcmlmO1xyXG59XHJcbm1hdC1jYXJkLXRpdGxlIHtcclxuICBmb250LXdlaWdodDogODAwO1xyXG59XHJcbm1hdC1jYXJkIHtcclxuICBib3gtc2hhZG93OiBub25lIWltcG9ydGFudDtcclxufVxyXG4uY29udGFpbmVyIHtcclxuICBtaW4taGVpZ2h0OiAxMDAlO1xyXG59XHJcbi5jb250YWluZXIge1xyXG4gIG1pbi1oZWlnaHQ6IGNhbGMoMTAwdmggLSAxNTguNHB4IC0gNjRweCk7XHJcbn1cclxuLnBhZ2UtdGl0bGUge1xyXG4gIC8qIGZvbnQtZmFtaWx5OiAnRXhvJywgc2Fucy1zZXJpZjsgKi9cclxuICBmb250LWZhbWlseTogJ09wZW4gU2FucycsIHNhbnMtc2VyaWY7XHJcbiAgZm9udC1zaXplOiAzNnB4O1xyXG4gIGZvbnQtd2VpZ2h0OiA4MDA7XHJcbn1cclxuLnNwYWNlciB7XHJcbiAgcGFkZGluZzogMC41cmVtO1xyXG59XHJcbm5nYi1jYXJvdXNlbCBpbWcge1xyXG4gIG9iamVjdC1maXQ6IGNvdmVyO1xyXG4gIG1heC1oZWlnaHQ6IDYwMHB4O1xyXG4gIGhlaWdodDogYXV0bztcclxuICB3aWR0aDogMTAwJTtcclxufVxyXG4iXX0= */"] });
 
 
 /***/ }),
