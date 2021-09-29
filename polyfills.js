@@ -1,18 +1,18 @@
-(self["webpackChunkdokter67"] = self["webpackChunkdokter67"] || []).push([["polyfills"],{
+"use strict";
+(self["webpackChunkportfolio"] = self["webpackChunkportfolio"] || []).push([["polyfills"],{
 
-/***/ 5240:
+/***/ 4266:
 /*!*********************************************************!*\
   !*** ./node_modules/@angular/localize/fesm2015/init.js ***!
   \*********************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "$localize": () => (/* binding */ $localize)
 /* harmony export */ });
 /**
- * @license Angular v12.1.5
+ * @license Angular v12.2.3
  * (c) 2010-2021 Google LLC. https://angular.io/
  * License: MIT
  */
@@ -214,18 +214,16 @@ function findEndOfBlock(cooked, raw) {
 _global.$localize = $localize;
 
 
-//# sourceMappingURL=init.js.map
 
 
 /***/ }),
 
-/***/ 7277:
+/***/ 7761:
 /*!***********************************************!*\
   !*** ./node_modules/zone.js/fesm2015/zone.js ***!
   \***********************************************/
 /***/ (() => {
 
-"use strict";
 
 /**
  * @license Angular v12.0.0-next.0
@@ -3192,10 +3190,9 @@ Zone.__load_patch('PromiseRejectionEvent', (global, Zone) => {
   \**************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _angular_localize_init__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/localize/init */ 5240);
-/* harmony import */ var zone_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! zone.js */ 7277);
+/* harmony import */ var _angular_localize_init__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/localize/init */ 4266);
+/* harmony import */ var zone_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! zone.js */ 7761);
 /* harmony import */ var zone_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(zone_js__WEBPACK_IMPORTED_MODULE_1__);
 /***************************************************************************************************
  * Load `$localize` onto the global scope - used if i18n tags appear in Angular templates.
@@ -3265,8 +3262,6 @@ __webpack_require__.r(__webpack_exports__);
 
 },
 /******/ __webpack_require__ => { // webpackRuntimeModules
-/******/ "use strict";
-/******/ 
 /******/ var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
 /******/ var __webpack_exports__ = (__webpack_exec__(7435));
 /******/ }
